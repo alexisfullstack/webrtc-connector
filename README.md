@@ -1,4 +1,4 @@
-# Pokémon Battle Royale
+# WebSocket-like wrapper over WebRTC DataChannel (pure client, no servers).
 
 ## Run
 
